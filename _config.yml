@@ -1,4 +1,4 @@
-title:            吴俊和我
+title:            Site Title
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 # 设置显示阅读的时间
@@ -10,13 +10,13 @@ url:
 
 # Owner/author information
 owner:
-  name:           文宁
+  name:           yourname
   avatar:         avatar.jpg
-  bio:            "好好学习，天天向上."
-  email:          ht.wenning@foxmail.com
+  bio:            introduce you here
+  email:          youremail@email.com
   # Social networking links used in footer. Update and remove as you like.
-  weibo:        http://weibo.com/121387947
-
+  weibo:        you weibo account
+  weibosite:     weib.com/111111
 # Background image to be tiled on all pages
 background: 
 
